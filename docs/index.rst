@@ -3,7 +3,7 @@ How to Contact BitLocker?
 
 BitLocker is an integral encryption tool built into Microsoft Windows to protect data by encrypting the hard drive of a device. It enhances security by ensuring that data remains protected even if a device is lost or stolen. However, users may encounter various issues related to BitLocker, such as forgetting the password, being locked out due to system errors, or needing help with recovery keys.
 
-.. image:: click-her.png
+.. image:: click-here.png
    :alt: My Project Logo
    :width: 400px
    :align: center
